@@ -11,6 +11,7 @@ import java.util.Scanner;
  * @author Lyn
  */
 public class ReverseWord {
+    /*author lyn */
     public static void main(String[] args){
         char[] myWord=new char[7];
 //        myWord[0]='s';
