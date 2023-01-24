@@ -7,6 +7,7 @@ package student1;
 /**
  *
  * @author Lyn
+ * January 24,2023
  */
 public class StudentList {
     public static void main(String[] args){
