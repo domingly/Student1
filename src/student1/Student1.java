@@ -7,6 +7,7 @@ package student1;
 /**
  *
  * @author Lyn
+ *date January 24,2023
  */
 public class Student1 {
     private String studentId;
